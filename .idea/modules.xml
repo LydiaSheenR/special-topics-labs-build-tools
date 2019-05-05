@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/constant-to-camel.iml" filepath="$PROJECT_DIR$/constant-to-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.cscc.topics.constant-to-camel.test.iml" />
     </modules>
   </component>
 </project>

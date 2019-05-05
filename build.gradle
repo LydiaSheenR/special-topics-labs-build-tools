@@ -22,6 +22,7 @@ dependencies {
     testCompile 'com.github.docker-java:docker-java:3.0.14'
 }
 
+
 group = 'edu.cscc.topics'
 version = '1.0-SNAPSHOT'
 sourceCompatibility = '1.8'

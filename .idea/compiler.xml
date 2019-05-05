@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="constant-to-camel" target="1.8" />
+      <module name="edu.cscc.topics.constant-to-camel.main" target="1.8" />
+      <module name="edu.cscc.topics.constant-to-camel.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
